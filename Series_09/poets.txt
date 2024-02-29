@@ -1,0 +1,11 @@
+Thomas Chatterton,1752-11-20,1770-08-24
+Phillis Wheatley,,1784-12-05
+Percy Bysshe Shelley,1792-08-04,1822-07-08
+John Keats,1795-10-31,1821-02-23
+Emily Brontë,1818-07-30,1848-12-19
+Walt Whitman,1819-05-31,
+Rupert Brooke,1887-08-03,1915-04-23
+Guillaume Apollinaire,1880-08-26,1918-11-09
+Wilfred Owen,1893-03-18,1918-11-04
+Keith Douglas,1920-01-24,1944-06-09
+Sylvia Plath,1932-10-27,1963-02-11

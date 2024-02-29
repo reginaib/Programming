@@ -1,0 +1,46 @@
+Monaco	Monaco	18,960	2.02	38,300
+Vatican City	Vatican City	1,684	0.49	825
+Malta	Valletta	1,505	316	475,701
+San Marino	San Marino	546	61.2	33,403
+Netherlands	Amsterdam	419	41,543	17,424,978
+Belgium	Brussels	375	30,689	11,515,793
+United Kingdom	London	272	242,495	66,040,229
+Liechtenstein	Vaduz	238	160	38,111
+Luxembourg	Luxembourg	233	2,586	602,005
+Germany	Berlin	232	357,168	82,887,000
+Switzerland	Bern	206	41,285	8,508,898
+Italy	Rome	200	301,338	60,404,355
+Andorra	Andorra la Vella	160	468	74,794
+Denmark	Copenhagen	135	42,931	5,806,015
+Czech Republic	Prague	135	78,866	10,625,449
+Cyprus	Nicosia	126	9,251	1,170,125
+Poland	Warsaw	123	312,679	38,433,600
+France	Paris	123	551,695	67,897,000
+Portugal	Lisbon	112	92,212	10,291,027
+Slovakia	Bratislava	111	49,035	5,445,087
+Austria	Vienna	106	83,879	8,857,960
+Hungary	Budapest	105	93,030	9,778,371
+Moldova	Chișinău	77	33,846	2,603,813
+Slovenia	Ljubljana	102	20,273	2,070,050
+Albania	Tirana	100	28,748	2,870,325
+Spain	Madrid	92	505,990	46,659,302
+Serbia	Belgrade	74	94,499	7,001,444
+Romania	Bucharest	82	238,397	19,523,621
+Greece	Athens	82	131,957	10,768,193
+North Macedonia	Skopje	81	25,713	2,075,301
+Ukraine	Kyiv	70	603,628	42,220,824
+Croatia	Zagreb	73	56,594	4,105,493
+Ireland	Dublin	69	70,273	4,857,000
+Bosnia and Herzegovina	Sarajevo	69	51,129	3,511,372
+Bulgaria	Sofia	64	110,994	7,050,034
+Belarus	Minsk	46	207,595	9,498,700
+Montenegro	Podgorica	45	13,810	622,387
+Lithuania	Vilnius	43	65,300	2,795,674
+Estonia	Tallinn	29.4	45,227	1,328,439
+Latvia	Riga	29.6	64,589	1,907,675
+Russia	Moscow	29	3,960,000	113,112,406
+Sweden	Stockholm	23	450,295	10,215,250
+Finland	Helsinki	16	338,424	5,521,533
+Norway	Oslo	14	385,203	5,323,933
+Iceland	Reykjavík	3.5	102,775	355,620
+Kosovo	Pristina	175	10,908	1,907,592
